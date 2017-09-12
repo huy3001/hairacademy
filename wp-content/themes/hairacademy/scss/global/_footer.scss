@@ -1,0 +1,181 @@
+/* Footer style */
+
+#footer {
+    clear: both;
+    padding: 0 0 50px;
+    .footer-menu {
+        text-align: center;
+        margin-top: 30px;
+        .footer-title {
+            color: $black;
+            font-size: 14px;
+            text-align: left;
+            text-transform: uppercase;
+            margin-top: 0;
+        }
+        .widget_nav_menu {
+            display: inline-block;
+            vertical-align: top;
+            width: 24%;
+            padding: 0 1%;
+        }
+        .widget_text {
+            border-top: 1px solid $left-menu-bd;
+            border-bottom: 1px solid $left-menu-bd;
+            text-align: center;
+            margin: 20px auto;
+            ul {
+                li {
+                    display: inline-block;
+                    vertical-align: top;
+                    padding: 10px 30px;
+                }
+            }
+        }
+        li {
+            list-style: none;
+        }
+        ul {
+            margin: 0;
+            padding: 0;
+            &.menu {
+                li {
+                    color: $left-menu-bg;
+                    font-size: 13px;
+                    @include font('font-roboto-medium');
+                    text-align: left;
+                    padding: 8px 0;
+                    &:hover {
+                        color: $header-bg;
+                    }
+                    a {
+                        color: $left-menu-bg;
+                        &:hover {
+                            color: $header-bg;
+                        }
+                    }
+                }
+            }
+        }
+    }
+    .social-block {
+        text-align: center;
+        margin: 40px 0;
+        a {
+            background: $left-menu-bg;
+            @include border-radius(50%);
+            color: $white;
+            display: inline-block;
+            vertical-align: middle;
+            font-size: 18px;
+            line-height: 32px;
+            height: 32px;
+            width: 32px;
+            margin: 0 5px;
+            &:hover {
+                background: $header-bg;
+            }
+        }
+    }
+    .payment-block {
+        display: none;
+    }
+    .copyright {
+        color: $footer-copyright-color;
+        font-size: 11px;
+        @include font('font-roboto-medium');
+        text-align: center;
+    }
+    .informed {
+        text-align: center;
+        margin-top: 20px;
+        img {
+            max-width: 150px;
+        }
+    }
+
+    @include bp(max-width, $desktop - 1) {
+        .footer-menu {
+            .widget_text {
+                ul {
+                    li {
+                        padding: 10px 20px;
+                    }
+                }
+            }
+        }
+    }
+
+    @include bp(max-width, $laptop - 1) {
+        .footer-menu {
+            .widget_nav_menu {
+                width: 48%;
+                margin-bottom: 20px;
+            }
+        }
+    }
+
+    @include bp(max-width, $tablet - 1) {
+        .social-block {
+            margin: 30px 0;
+        }
+    }
+
+    @include bp(max-width, $mobile) {
+        .footer-menu {
+            margin-top: 0;
+            .widget_nav_menu {
+                border-bottom: 1px solid $left-menu-bd;
+                display: block;
+                width: 100%;
+                padding: 0;
+                margin: 0;
+            }
+            .footer-title {
+                margin: 0;
+                padding: 18px 0;
+                position: relative;
+                &:before, &:after {
+                    content: "";
+                    display: block;
+                    background: $left-menu-bg;
+                    position: absolute;
+                    top: 50%;
+                    @include transition();
+                }
+                &:before {
+                    right: 0;
+                    width: 10px;
+                    height: 2px;
+                    margin-top: -1px;
+                }
+                &:after {
+                    right: 4px;
+                    width: 2px;
+                    height: 10px;
+                    margin-top: -5px;
+                }
+                &.open-menu {
+                    &:after {
+                        @include transform(rotate(90deg));
+                    }
+                }
+            }
+            .widget_text {
+                border-top: none;
+                text-align: left;
+                padding-bottom: 20px;
+                ul {
+                    li {
+                        padding: 10px 0;
+                    }
+                }
+            }
+            ul {
+                &.menu {
+                    display: none;
+                }
+            }
+        }
+    }
+}

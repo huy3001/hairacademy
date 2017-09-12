@@ -1,0 +1,57 @@
+/* Shoes page style */
+
+.page-template-shoes {
+    @extend .home;
+    @import "../component/featured-product";
+    .content-block {
+        &.no-feature {
+            min-height: 550px;
+        }
+    }
+    .content-block-img {
+        img {
+            position: absolute;
+            top: 0;
+        }
+    }
+
+    @include bp(max-width, $large-desktop) {
+        .content-block {
+            &.no-feature {
+                min-height: 315px;
+            }
+        }
+    }
+
+    @include bp(max-width, $desktop) {
+        .content-block {
+            &.no-feature {
+                min-height: 330px;
+            }
+        }
+    }
+
+    @include bp(max-width, $laptop) {
+        .content-block {
+            &.no-feature {
+                min-height: 255px;
+            }
+        }
+    }
+
+    @include bp(max-width, $tablet - 1) {
+        .content-block {
+            &.no-feature {
+                min-height: inherit;
+            }
+        }
+        .feature-product {
+            display: none;
+        }
+        .content-block-img {
+            img {
+                position: static;
+            }
+        }
+    }
+}

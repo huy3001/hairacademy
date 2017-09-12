@@ -1,0 +1,52 @@
+/* Snow styles */
+
+/* Defines the position and dimensions of the snowContainer div */
+#snowContainer
+{
+    display: none;
+    overflow: hidden;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+
+    /* This CSS rule is applied to all div elements in the snowContainer div.
+       It styles and animates each snowDiv.
+    */
+    > div {
+        position: absolute;
+        width: auto;
+        height: auto;
+
+        /* We use the following properties to apply the fade and drop animations to each snow.
+           Each of these properties takes two values. These values respectively match a setting
+           for fade and drop.
+        */
+        -webkit-animation-iteration-count: infinite, infinite;
+        -webkit-animation-direction: normal, normal;
+        -webkit-animation-timing-function: linear, ease-in;
+
+        /* This CSS rule is applied to all img elements directly inside div elements which are
+           directly inside the snowContainer div. In other words, it matches the 'img' elements
+           inside the snowDivs which are created in the createAsnow() function.
+        */
+        > img {
+            position: absolute;
+            width: auto;
+            height: auto;
+
+            /* We use the following properties to adjust the clockwiseSpin or counterclockwiseSpinAndFlip
+               animations on each snow.
+               The createAsnow function in the snow.js file determines whether a snow has the
+               clockwiseSpin or counterclockwiseSpinAndFlip animation.
+            */
+            -webkit-animation-iteration-count: infinite;
+            -webkit-animation-direction: alternate;
+            -webkit-animation-timing-function: ease-in-out;
+            -webkit-transform-origin: 50% -100%;
+        }
+    }
+}
+
+
+

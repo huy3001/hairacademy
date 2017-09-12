@@ -1,0 +1,74 @@
+/* Background */
+$body-bg: #f7f7f7;
+$header-bg: #303030;
+$left-menu-bg: #999999;
+$cart-btn-bg: #00385f;
+$cat-list-bg: #444444;
+$cat-item-bg: #555555;
+$sale-tag-bg: #00436d;
+$filter-item-bg: #e8e8e8;
+$product-slider-dot: #cccccc;
+
+/* Border */
+$search-input-bd: #666666;
+$left-menu-bd: #dcdcdc;
+$product-select-bd: #dfdfdf;
+
+/* Break point */
+$full-desktop: 1920px;
+$huge-desktop: 1600px;
+$large-desktop: 1440px;
+$medium-desktop: 1366px;
+$desktop: 1200px;
+$laptop: 992px;
+$tablet: 768px;
+$mobile: 480px;
+
+/* Color */
+$grey: #505050;
+$red: #ff0000;
+$blue: #00a2ff;
+$black: #000000;
+$green: #69bf29;
+$white: #ffffff;
+$main-color: #303030;
+$header-link-hover: #aaaaaa;
+$submenu-item-color: #a2a2a2;
+$footer-copyright-color: #bababa;
+$product-select-color: #01385f;
+
+/* Font */
+@include placeholder('font-style') {
+    font-style: normal;
+    font-weight: normal;
+}
+
+@include placeholder('font-gotham-book') {
+    @include font('font-style');
+    font-family: 'VNFGothamBook', sans-serif;
+    font-weight: 700;
+}
+
+@include placeholder('font-roboto-bold') {
+    @include font('font-style');
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+}
+
+@include placeholder('font-roboto-medium') {
+    @include font('font-style');
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+}
+
+@include placeholder('font-awesome') {
+    font-family:'FontAwesome';
+}
+
+/* Layout */
+$header-height: 54px;
+$left-content-width: 250px;
+$product-img-height: 768px;
+$desktop-img-height: 600px;
+$tablet-img-height: 520px;
+

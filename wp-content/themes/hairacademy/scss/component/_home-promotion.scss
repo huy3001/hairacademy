@@ -1,0 +1,41 @@
+/* Home promotion style */
+
+.promotion-block {
+    font-size: 0;
+    text-align: center;
+    margin: 1px -1px 0;
+    a {
+        border: 1px solid $white;
+        display: inline-block;
+        vertical-align: top;
+        height: 200px;
+        width: 25%;
+        overflow: hidden;
+        &:hover {
+            img {
+                @include transform(translateX(-50%) scale(1.1,1.1));
+            }
+        }
+    }
+    img {
+        height: 100%;
+        width: auto;
+        max-width: inherit;
+        position: relative;
+        left: 50%;
+        @include transform(translateX(-50%));
+        @include transition();
+    }
+
+    @include bp(max-width, $desktop - 1) {
+        a {
+            width: 50%;
+        }
+    }
+
+    @include bp(max-width, $mobile) {
+        a {
+            width: 100%;
+        }
+    }
+}

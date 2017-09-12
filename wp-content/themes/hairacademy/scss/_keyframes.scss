@@ -1,0 +1,39 @@
+/* Keyframes styles */
+
+/* Hides a snow towards the very end of the animation */
+@-webkit-keyframes fade
+{
+    /* Show a snow while into or below 95 percent of the animation and hide it, otherwise */
+    0%   { opacity: 1; }
+    95%  { opacity: 1; }
+    100% { opacity: 0; }
+}
+
+
+/* Makes a snow fall from -300 to 600 pixels in the y-axis */
+@-webkit-keyframes drop
+{
+    /* Move a snow to -300 pixels in the y-axis at the start of the animation */
+    0%   { -webkit-transform: translate(0px, -50px); }
+    /* Move a snow to 600 pixels in the y-axis at the end of the animation */
+    100% { -webkit-transform: translate(0px, 650px); }
+}
+
+/* Rotates a snow from -50 to 50 degrees in 2D space */
+@-webkit-keyframes clockwiseSpin
+{
+    /* Rotate a snow by -50 degrees in 2D space at the start of the animation */
+    0%   { -webkit-transform: rotate(-50deg); }
+    /*  Rotate a snow by 50 degrees in 2D space at the end of the animation */
+    100% { -webkit-transform: rotate(50deg); }
+}
+
+
+/* Flips a snow and rotates it from 50 to -50 degrees in 2D space */
+@-webkit-keyframes counterclockwiseSpinAndFlip
+{
+    /* Flip a snow and rotate it by 50 degrees in 2D space at the start of the animation */
+    0%   { -webkit-transform: scale(-1, 1) rotate(50deg); }
+    /* Flip a snow and rotate it by -50 degrees in 2D space at the end of the animation */
+    100% { -webkit-transform: scale(-1, 1) rotate(-50deg); }
+}

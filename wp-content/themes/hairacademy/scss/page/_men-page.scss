@@ -1,0 +1,57 @@
+/* Men page style */
+
+.page-template-men {
+    @extend .home;
+    @import "../component/sub-category";
+    @import "../component/featured-product";
+    @import "../component/content-desc";
+    @import "../component/content-image";
+    .content-block {
+        margin: 1px 0;
+        .content-block-body {
+            a {
+                border-color: $white;
+                &:hover {
+                    background: none;
+                }
+            }
+        }
+    }
+    .row {
+        &:first-child {
+            .content-block {
+                margin-top: 0;
+            }
+        }
+        &:last-child {
+            .content-block {
+                margin-bottom: 0;
+            }
+        }
+    }
+    .men-option-1,
+    .men-option-3,
+    .men-option-5 {
+        .content-block-img {
+            right: 0;
+        }
+    }
+    .men-option-2,
+    .men-option-4 {
+        .feature-product,
+        .content-block-desc {
+            float: right;
+        }
+        .content-block-img {
+            right: auto;
+            left: 0;
+        }
+    }
+
+    @include bp(max-width, $laptop - 1) {
+        .feature-product,
+        .content-block-desc {
+            display: none;
+        }
+    }
+}

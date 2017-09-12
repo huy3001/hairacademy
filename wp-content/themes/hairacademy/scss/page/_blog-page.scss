@@ -1,0 +1,345 @@
+/* Blog page style */
+
+.blog,
+.single {
+    .page-title {
+        margin: 30px auto;
+        text-align: center;
+    }
+    .post {
+        float: left;
+        width: 32%;
+        margin-right: 2%;
+        margin-bottom: 40px;
+        &:nth-child(3n) {
+            margin-right: 0;
+        }
+        a {
+            &:hover {
+                .post-thumbnail {
+                    &:after {
+                        @include opacity(0.2);
+                    }
+                }
+                .entry-info {
+                    background: $grey;
+                }
+                .entry-title,
+                .read-more {
+                    color: $white;
+                }
+                .entry-content {
+                    color: $white;
+                    p {
+                        color: $white;
+                    }
+                }
+            }
+        }
+        .entry-thumbnail {
+            position: relative;
+        }
+        .timestamp {
+            background: $black;
+            color: $white;
+            display: none;
+            text-align: center;
+            text-transform: uppercase;
+            padding: 10px;
+            position: absolute;
+            left: 15px;
+            top: 0;
+            span {
+                display: block;
+            }
+            .year {
+                display: none;
+                font-size: 20px;
+            }
+        }
+        .post-thumbnail {
+            height: 250px;
+            overflow: hidden;
+            position: relative;
+            &:after {
+                content: "";
+                display: block;
+                height: 100%;
+                width: 100%;
+                background: $black;
+                position: absolute;
+                left: 0;
+                top: 0;
+                @include opacity(0);
+                @include transition();
+            }
+            img {
+                height: 100%;
+                width: auto;
+                max-width: inherit;
+                position: relative;
+                left: 50%;
+                @include backface-visibility(hidden);
+                @include transform(translateX(-50%));
+            }
+        }
+        .entry-info {
+            background: $white;
+            text-align: center;
+            height: 150px;
+            width: 100%;
+            padding: 15px;
+            @include transition();
+        }
+        .entry-title {
+            color: $main-color;
+            font-size: 20px;
+            text-transform: none;
+            min-height: 44px;
+            margin-top: 10px;
+            @include transition();
+        }
+        .entry-meta {
+            display: none;
+        }
+        .entry-content {
+            color: $grey;
+            font-weight: normal;
+            @include transition();
+            p {
+                color: $grey;
+                font-weight: normal;
+                overflow: hidden;
+                text-overflow: ellipsis;
+                white-space: nowrap;
+                @include transition();
+            }
+            .read-more {
+                clear: both;
+                color: $main-color;
+                display: block;
+                font-weight: bold;
+                @include transition();
+            }
+        }
+    }
+
+    @include bp(max-width, $laptop - 1) {
+        .post {
+            width: 48%;
+            margin-right: 4%;
+            &:nth-child(2n) {
+                margin-right: 0;
+            }
+            &:nth-child(2n + 1) {
+                margin-right: 4%;
+            }
+        }
+    }
+
+    @include bp(max-width, $mobile) {
+        .page-title {
+            font-size: 20px;
+            margin: 20px auto;
+        }
+        .post {
+            width: 100%;
+            margin-right: 0;
+            margin-bottom: 20px;
+            &:nth-child(2n + 1) {
+                margin-right: 0;
+            }
+            .post-thumbnail {
+                height: 200px;
+            }
+        }
+    }
+}
+
+.single-post {
+    .breadcrumbs {
+        background: $white;
+        color: $header-bg;
+        font-size: 13px;
+        line-height: 20px;
+        text-transform: none;
+        padding: 10px 0;
+        margin: 0;
+        a {
+            color: $left-menu-bg;
+        }
+    }
+    .news-heading,
+    .right-sidebar {
+        display: none;
+    }
+    .news-item {
+        position: relative;
+    }
+    .news-image {
+        img {
+            width: 100%;
+        }
+    }
+    .news-content {
+        background: $white;
+        padding: 15px;
+        .timestamp,
+        .news-author {
+            display: inline-block;
+            vertical-align: top;
+        }
+        .news-title {
+            color: $main-color;
+            a {
+                color: $main-color;
+                &:hover {
+                    @include opacity(0.5);
+                }
+            }
+        }
+        .category-list {
+            color: $grey;
+            a {
+                color: $grey;
+                &:hover {
+                    @include opacity(0.5);
+                }
+            }
+            span {
+                margin: 0 5px;
+            }
+        }
+        .entry-content {
+            color: $grey;
+            font-weight: normal;
+            margin-top: 20px;
+            h1, h2, h3, h4, h5, h6, a {
+                color: $main-color;
+            }
+            a {
+                &:hover {
+                    @include opacity(0.5);
+                }
+            }
+            img {
+                &.aligncenter {
+                    display: block;
+                    margin: 0 auto;
+                }
+            }
+        }
+        .page-selection {
+            list-style: none;
+            margin: 20px 0 0;
+            padding: 0;
+            a {
+                color: $main-color;
+                &:hover {
+                    @include opacity(0.5);
+                }
+            }
+            .page-prev {
+                float: left;
+            }
+            .page-next {
+                float: right;
+            }
+        }
+    }
+    .related-news {
+        h4 {
+            margin-top: 20px;
+        }
+        .related-item {
+            margin-bottom: 30px;
+        }
+        a {
+            &:hover {
+                .related-img {
+                    &:after {
+                        @include opacity(0.2);
+                    }
+                }
+                .related-info {
+                    background: $grey;
+                }
+                .related-title,
+                .related-date {
+                    color: $white;
+                }
+            }
+        }
+        .related-img {
+            height: 250px;
+            overflow: hidden;
+            position: relative;
+            &:after {
+                content: "";
+                display: block;
+                height: 100%;
+                width: 100%;
+                background: $black;
+                position: absolute;
+                left: 0;
+                top: 0;
+                @include opacity(0);
+                @include transition();
+            }
+            img {
+                height: 100%;
+                width: auto;
+                max-width: inherit;
+                position: relative;
+                left: 50%;
+                @include backface-visibility(hidden);
+                @include transform(translateX(-50%));
+            }
+        }
+        .related-info {
+            background: $white;
+            text-align: center;
+            padding: 15px;
+            @include transition();
+        }
+        .related-title {
+            color: $main-color;
+            line-height: normal;
+            min-height: 34px;
+            @include transition();
+        }
+        .related-date {
+            color: $grey;
+            @include transition();
+        }
+    }
+
+    @include bp(max-width, $laptop - 1) {
+        .related-news {
+            .related-img {
+                height: 200px;
+            }
+        }
+    }
+
+    @include bp(max-width, $tablet - 1) {
+        .breadcrumbs {
+            display: none;
+        }
+        .news-list,
+        .related-news {
+            .container {
+                padding: 0;
+            }
+        }
+        .related-news {
+            h4 {
+                text-align: center;
+                padding: 0 15px;
+            }
+            .related-item {
+                margin-bottom: 20px;
+            }
+        }
+    }
+}

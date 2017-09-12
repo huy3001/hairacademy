@@ -1,0 +1,35 @@
+/* Content block image style */
+
+.has-feature {
+    .content-block-img {
+        height: 100%;
+        width: 66.666%;
+        position: absolute;
+        right: 0;
+        top: 0;
+        overflow: hidden;
+        img {
+            height: 100%;
+            width: auto;
+            max-width: inherit;
+            position: relative;
+            left: 50%;
+            @include transform(translateX(-50%));
+        }
+    }
+
+    @include bp(max-width, $laptop - 1) {
+        .content-block-img {
+            height: auto;
+            width: 100%;
+            position: static;
+            img {
+                height: auto;
+                width: 100%;
+                max-width: 100%;
+                position: static;
+                @include transform(none);
+            }
+        }
+    }
+}

@@ -1,0 +1,61 @@
+/* Home info style */
+
+.content-block-info {
+    .info {
+        p {
+            color: $main-color;
+            font-size: 14px;
+            line-height: 20px;
+            letter-spacing: 1px;
+        }
+        h2 {
+            font-size: 40px;
+            font-size: 2.08vw;
+            @include font('font-roboto-bold');
+            line-height: normal;
+            letter-spacing: 2px;
+        }
+        h2 + p {
+            color: $search-input-bd;
+            font-size: 13px;
+        }
+        a {
+            display: inline-block;
+            vertical-align: top;
+            margin: 20px 4px 0;
+        }
+    }
+
+    a {
+        margin-top: 20px;
+    }
+
+    @include bp(max-width, $laptop - 1) {
+        .info {
+            h2 {
+                font-size: 30px;
+                font-size: 2.08vw;
+            }
+            a + a {
+                margin-top: 8px;
+            }
+        }
+    }
+
+    @include bp(max-width, $tablet - 1) {
+        .info {
+            h2 {
+                font-size: 15px;
+                font-size: 4.08vw;
+            }
+        }
+    }
+
+    @include bp(max-width, $mobile) {
+        .info {
+            a + a {
+                margin-top: 20px;
+            }
+        }
+    }
+}

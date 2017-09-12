@@ -1,0 +1,181 @@
+/* General style */
+
+html, body {
+    height: 100%;
+}
+
+body {
+    background: $body-bg;
+    color: $header-bg;
+    @include font('font-roboto-bold');
+    @include font-smoothing(antialiased);
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+a {
+    @include transition();
+    &:hover, &:focus {
+        text-decoration: none;
+    }
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-weight: 700;
+}
+
+#wrapper {
+    min-height: 100%;
+    margin: 0 auto;
+    padding-top: $header-height;
+    overflow-x: hidden;
+    &:after {
+        content: "";
+        display: block;
+    }
+
+    @include bp(max-width, $tablet - 1) {
+        padding-top: 0;
+    }
+}
+
+.back-top {
+    background: $white;
+    color: $left-menu-bg;
+    font-size: 13px;
+    display: inline-block;
+    padding: 10px 30px;
+    position: fixed;
+    bottom: -40px;
+    right: 0;
+    z-index: 1;
+    &:before,
+    &:after {
+        content: "";
+        display: block;
+        width: 0;
+        height: 0;
+        background: none;
+        border-bottom: 6px solid $left-menu-bg;
+        border-left: 5px solid transparent;
+        border-right: 5px solid transparent;
+        position: absolute;
+        top: 50%;
+        margin-top: -3px;
+        @include transition();
+    }
+    &:before {
+        left: 10px;
+    }
+    &:after {
+        right: 10px;
+    }
+    &:hover, &:focus {
+        background: $product-slider-dot;
+        color: $header-bg;
+        outline: none;
+        &:before,
+        &:after {
+            border-bottom-color: $header-bg;
+        }
+    }
+}
+
+.button-style {
+    &.black {
+        background: $black;
+        border-color: $black;
+        color: $white;
+        &:hover {
+            background: transparent;
+            color: $black;
+        }
+        &.border {
+            background: transparent;
+            color: $black;
+            &:hover {
+                background: $black;
+                color: $white;
+            }
+        }
+    }
+    &.white {
+        background: $white;
+        border-color: $white;
+        color: $black;
+        &:hover {
+            background: transparent;
+            color: $white;
+        }
+        &.border {
+            background: transparent;
+            color: $white;
+            &:hover {
+                background: $white;
+                color: $black;
+            }
+        }
+    }
+    &.grey {
+        background: $grey;
+        border-color: $grey;
+        color: $white;
+        &:hover {
+            background: transparent;
+            color: $grey;
+        }
+        &.border {
+            background: transparent;
+            color: $grey;
+            &:hover {
+                background: $grey;
+                color: $white;
+            }
+        }
+    }
+    &.red {
+        background: $red;
+        border-color: $red;
+        color: $white;
+        &:hover {
+            background: transparent;
+            color: $red;
+        }
+        &.border {
+            background: transparent;
+            color: $red;
+            &:hover {
+                background: $red;
+                color: $white;
+            }
+        }
+    }
+}
+
+@include bp(max-width, $desktop - 1) {
+    .back-top {
+        right: 50%;
+        @include transform(translateX(50%));
+    }
+}
+
+@include small-bp($mobile + 1, $laptop - 1) {
+    .visible-sm {
+        display: block !important;
+    }
+}
+
+@include bp(max-width, $tablet - 1) {
+    .visible-xs {
+        display: none !important;
+    }
+}
+
+@include bp(max-width, $mobile) {
+    .visible-xs {
+        display: block !important;
+    }
+}

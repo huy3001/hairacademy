@@ -1,0 +1,2045 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: NewViet\n"
+"POT-Creation-Date: 2016-02-18 19:26+0800\n"
+"PO-Revision-Date: 2016-02-24 09:48+0800\n"
+"Last-Translator: \n"
+"Language-Team: Sutunam\n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: /media/datas/websites/dev.sutunam.com/newviet/new-"
+"viet/wp-content/themes/sutunam\n"
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/contact.php:27
+msgid "Find your closest Newviet Dairy Agency"
+msgstr "Tìm trụ sở New Viet gần nhất"
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/contact.php:40
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/taxonomy-food_category.php:273
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/food.php:63
+msgid "Have questions?"
+msgstr "Bạn có câu hỏi về dịch vụ thực phẩm?"
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/contact.php:40
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/taxonomy-food_category.php:273
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/food.php:63
+msgid "Send us your concern!"
+msgstr "Hãy gửi ngay yêu cầu!"
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/search.php:15
+msgid "Search result"
+msgstr "Kết quả tìm kiếm"
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/search.php:17
+#, php-format
+msgid "Results for: %s"
+msgstr "Kết quả cho: %s"
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/search.php:19
+msgid "There's no matched result for "
+msgstr "Không có kết quả nào phù hợp với "
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/search.php:32
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/functions.php:279
+msgid "Previous page"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/search.php:33
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/functions.php:278
+msgid "Next page"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/search.php:34
+msgid "Page"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/single-ingredient.php:24
+msgid "/ingredient"
+msgstr "/nguyen-lieu"
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/single-ingredient.php:25
+msgid "Ingredient "
+msgstr "Nguyên liệu"
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/functions.php:85
+msgid "Primary Menu"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/functions.php:86
+msgid "Social Links Menu"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/functions.php:93
+msgid "Footer Sidebar"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/functions.php:104
+msgid "Right Sidebar"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/functions.php:177
+msgid "Older Posts"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/functions.php:181
+msgid "Newer Posts"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/functions.php:232
+#, php-format
+msgid "<span class=\"author\">Posted by %1$s</span>"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/functions.php:234
+#, php-format
+msgid "<span class=\"date-published\"> at %1$s</span>"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/functions.php:236
+#, php-format
+msgid "<span class=\"category\"> in %1$s</span>"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/functions.php:243
+msgid "Leave a comment"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/functions.php:244
+msgid "One comment"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/functions.php:245
+#, php-format
+msgid "% comments"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/functions.php:246
+msgid "Read all comments"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/functions.php:260
+msgid "Read More"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/functions.php:276
+msgid "<p>Page:"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/functions.php:334
+msgid "Sending user info, please wait..."
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/functions.php:354
+msgid "Wrong username or password."
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/functions.php:356
+msgid "Login successful, redirecting..."
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/functions.php:364
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/header.php:100
+msgid "Log out"
+msgstr "Đăng xuất"
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/functions.php:367
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/header.php:103
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/header.php:123
+msgid "Log in"
+msgstr "Đăng nhập"
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/functions.php:369
+msgid "Home"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/single-food.php:24
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/taxonomy-food_category.php:31
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/homepage.php:172
+msgid "/food-service"
+msgstr "/dich-vu-thuc-pham"
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/single-food.php:25
+msgid "Food service "
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/single-food.php:56
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/taxonomy-food_category.php:197
+msgid "SKUs: "
+msgstr "Mã sản phẩm: "
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/single-food.php:60
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/taxonomy-food_category.php:201
+msgid "Brand: "
+msgstr "Thương hiệu: "
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/single-food.php:64
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/taxonomy-food_category.php:205
+msgid "Packing: "
+msgstr "Đóng gói: "
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/single-food.php:68
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/taxonomy-food_category.php:209
+msgid "Shelf life: "
+msgstr "Thời hạn sử dụng: "
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/single-food.php:72
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/taxonomy-food_category.php:213
+msgid "Storage condition: "
+msgstr "Điều kiện bảo quản: "
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/single-food.php:76
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/taxonomy-food_category.php:217
+msgid "Origin: "
+msgstr "Xuất xứ: "
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/register.php:26
+msgid "Register"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/taxonomy-food_category.php:32
+msgid "Food service landing"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/taxonomy-food_category.php:35
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/taxonomy-food_category.php:40
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/quality-assurance.php:55
+msgid "Food Service"
+msgstr "Dịch vụ thực phẩm"
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/taxonomy-food_category.php:221
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/ingredient.php:80
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/footer.php:25
+msgid "Contact us"
+msgstr "Liên hệ"
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/taxonomy-food_category.php:245
+#, php-format
+msgid "Contact our %s team leader"
+msgstr "Liên hệ với quản lý kênh bán hàng %s"
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/taxonomy-food_category.php:263
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/retailer.php:129
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/food.php:53
+msgid "Full catalog of our latest products are available here"
+msgstr "Danh mục sản phẩm mới và đầy đủ nhất có sẵn tại đây"
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/ingredient.php:132
+msgid ""
+"More technical documentations about our<br/> ingredients are available here."
+msgstr "Thông số của tất cả nguyên liệu New Viet<br/> có sẵn tại đây"
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/ingredient.php:134
+msgid "Haven't got an account?"
+msgstr "Bạn chưa có tài khoản ?"
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/ingredient.php:134
+msgid "Please contact your account manager"
+msgstr "Hãy liên hệ với quản lý tài khoản"
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/ingredient.php:136
+msgid "Sign in"
+msgstr "Đăng nhập"
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/ingredient.php:145
+msgid "want a bulk order"
+msgstr "Bạn muốn đặt sản phẩm"
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/ingredient.php:145
+msgid "of our ingredients?"
+msgstr "với khối lượng lớn?"
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/single.php:24
+msgid "/news"
+msgstr "/tin-tuc"
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/single.php:25
+msgid "News"
+msgstr "Tin tức"
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/single.php:36
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/category.php:18
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/news.php:24
+msgid "Latest News"
+msgstr "Tin tức"
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/single.php:74
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/news.php:81
+msgid "Next &rarr;"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/single.php:75
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/news.php:80
+msgid "&larr; Prev"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/single.php:79
+msgid "Related posts"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/homepage.php:121
+msgid "/ingredients"
+msgstr "/nguyen-lieu"
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/homepage.php:123
+msgid "more on ingredients"
+msgstr "Xem thêm nguyên liệu"
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/homepage.php:174
+msgid "more on hospitality"
+msgstr "Xem thêm các dịch vụ"
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/homepage.php:240
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/homepage.php:253
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/homepage.php:269
+msgid "/retailers-supply"
+msgstr "/he-thong-ban-le"
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/homepage.php:253
+msgid "View details"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/homepage.php:271
+msgid "more on brands"
+msgstr "Xem thêm các thương hiệu"
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/homepage.php:290
+msgid "shop online"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/quality-assurance.php:29
+msgid "CLICK TO SEE PDF"
+msgstr "Ấn vào đây để xem PDF"
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/quality-assurance.php:45
+msgid "Our Business Units"
+msgstr "Các đơn vị kinh doanh của chúng tôi"
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/quality-assurance.php:48
+msgid "ingredients"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/quality-assurance.php:49
+msgid "Ingredients"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/quality-assurance.php:54
+msgid "food-service"
+msgstr "Ấn vào đây để xem PDF"
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/quality-assurance.php:60
+msgid "retailers-supply"
+msgstr "thuong-hieu-ban-le"
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/quality-assurance.php:61
+msgid "Retailers Supply"
+msgstr "Thương hiệu bán lẻ"
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/quality-assurance.php:66
+msgid "shop-online"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/quality-assurance.php:67
+msgid "Shop Online"
+msgstr "Cửa hàng trực tuyến"
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/category.php:59
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/news.php:66
+msgid "Read more &rarr;"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/single-retailer.php:24
+msgid "/retailes-supply"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/single-retailer.php:25
+msgid "Retailers supply "
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/searchform.php:12
+msgid "Search the site..."
+msgstr "Tìm kiếm..."
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/retailer.php:139
+msgid "interested in our"
+msgstr "Quan tâm đến dịch vụ"
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/retailer.php:139
+msgid "retailers supply service"
+msgstr "cung ứng hệ thống bán lẻ của chúng tôi?"
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/404.php:18
+msgid "Page not found"
+msgstr "Không tìm thấy trang này"
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/404.php:21
+msgid ""
+"It seems we can't find what you're looking for. Perhaps searching can help."
+msgstr "Trang bạn tìm kiếm không tồn tại"
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/404.php:28
+msgid "Or you can browse the site by categories"
+msgstr "Vui lòng chọn trang khác trong sơ đồ dưới đây!!!"
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/food.php:33
+msgid "Browse by"
+msgstr "Phân loại theo"
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/footer.php:19
+msgid "About us"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/footer.php:26
+msgid "New Viet Dairy - Head Office:"
+msgstr "Văn phòng công ty Đại Tân Việt"
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/footer.php:72
+msgid "Latest news"
+msgstr "Tin tức"
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/header.php:70
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/header.php:74
+msgid "VN"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/header.php:72
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/header.php:76
+msgid "EN"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/header.php:107
+msgid ""
+"Be a member to download our full catalog and receive latest news and "
+"promotions"
+msgstr ""
+"Thành viên đăng nhập để có thể download toàn bộ Catalog và nhận những thông "
+"tin khuyến mại mới nhất từ chúng tôi"
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/header.php:112
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/fields/password/field_password.php:63
+msgid "Username"
+msgstr "Tên đăng nhập"
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/header.php:116
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/fields/password/field_password.php:62
+msgid "Password"
+msgstr "Mật khẩu"
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/header.php:121
+msgid "Keep me logged in"
+msgstr "Ghi nhớ"
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/header.php:128
+msgid "/register"
+msgstr "/dang-ky"
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/header.php:128
+msgid "Not a member yet? Sign up here"
+msgstr "Chưa phải là thành viên? Đăng ký tại đây"
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/header.php:162
+msgid "Contact via Zalo & Viber"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/header.php:164
+msgid "Liện hệ qua Zalo & Viber"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/header.php:169
+msgid ""
+"Viber and Zalo App haven't supported launching from computers. Please "
+"manually type in the number <b>+84981674974</b> in your phone's chat app or "
+"use the website in your mobile browser. Thank you!"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/header.php:171
+msgid ""
+"Hiện tại Viber và Zalo chưa hỗ trợ việc mở ứng dụng từ trên máy tính .Vui "
+"lòng nhập số điện thoại <b>+84981674974</b> vào ứng dụng chat trên điện "
+"thoại của bạn. Xin cảm ơn!"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/post-types.php:11
+msgid "Add New Ingredient"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/post-types.php:12
+msgid "New Ingredient"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/post-types.php:13
+msgid "Edit Ingredient"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/post-types.php:14
+msgid "View Ingredient"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/post-types.php:15
+msgid "All Ingredients"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/post-types.php:16
+msgid "Search Ingredients"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/post-types.php:17
+msgid "Parent Ingredients:"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/post-types.php:18
+msgid "No Ingredients found."
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/post-types.php:19
+msgid "No Ingredients found in Trash."
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/post-types.php:48
+msgid "Add New Retailer Supply"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/post-types.php:49
+msgid "New Retailer Supply"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/post-types.php:50
+msgid "Edit Retailer Supply"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/post-types.php:51
+msgid "View Retailer Supply"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/post-types.php:52
+msgid "All Retailers Supply"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/post-types.php:53
+msgid "Search Retailers Supply"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/post-types.php:54
+msgid "Parent Retailers Supply:"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/post-types.php:55
+msgid "No Retailers Supply found."
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/post-types.php:56
+msgid "No Retailers Supply found in Trash."
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/post-types.php:85
+msgid "Add New Product"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/post-types.php:86
+msgid "New Product"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/post-types.php:87
+msgid "Edit Product"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/post-types.php:88
+msgid "View Product"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/post-types.php:89
+msgid "All Food Products"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/post-types.php:90
+msgid "Search Product"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/post-types.php:91
+msgid "Parent Product:"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/post-types.php:92
+msgid "No Product found."
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/post-types.php:93
+msgid "No Product found in Trash."
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/admin-config.php:98
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/admin-config.php:99
+msgid "New-Viet Options"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/admin-config.php:197
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/admin-config.php:793
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/oldadmin-config.php:197
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/oldadmin-config.php:763
+msgid "Documentation"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/admin-config.php:203
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/oldadmin-config.php:203
+msgid "Support"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/admin-config.php:209
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/oldadmin-config.php:209
+msgid "Extensions"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/admin-config.php:242
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/oldadmin-config.php:242
+#, php-format
+msgid ""
+"<p>Did you know that Redux sets a global variable for you? To access any of "
+"your saved options from within your code you can use your global variable: "
+"<strong>$%1$s</strong></p>"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/admin-config.php:244
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/oldadmin-config.php:244
+msgid ""
+"<p>This text is displayed above the options panel. It isn't required, but "
+"more info is always better! The intro_text field accepts all HTML.</p>"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/admin-config.php:248
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/oldadmin-config.php:248
+msgid ""
+"<p>This text is displayed below the options panel. It isn't required, but "
+"more info is always better! The footer_text field accepts all HTML.</p>"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/admin-config.php:264
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/oldadmin-config.php:264
+msgid "Theme Information 1"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/admin-config.php:265
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/admin-config.php:270
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/oldadmin-config.php:265
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/oldadmin-config.php:270
+msgid "<p>This is the tab content, HTML is allowed.</p>"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/admin-config.php:269
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/oldadmin-config.php:269
+msgid "Theme Information 2"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/admin-config.php:276
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/oldadmin-config.php:276
+msgid "<p>This is the sidebar content, HTML is allowed.</p>"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/admin-config.php:302
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/oldadmin-config.php:302
+msgid "General Settings"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/admin-config.php:319
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/oldadmin-config.php:336
+msgid "Logo"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/admin-config.php:322
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/admin-config.php:337
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/admin-config.php:430
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/admin-config.php:455
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/admin-config.php:480
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/admin-config.php:505
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/admin-config.php:555
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/admin-config.php:565
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/admin-config.php:615
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/admin-config.php:625
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/admin-config.php:675
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/admin-config.php:685
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/admin-config.php:724
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/admin-config.php:734
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/oldadmin-config.php:339
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/oldadmin-config.php:354
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/oldadmin-config.php:565
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/oldadmin-config.php:605
+msgid "Basic media uploader with disabled URL input field."
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/admin-config.php:323
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/admin-config.php:338
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/admin-config.php:431
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/admin-config.php:456
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/admin-config.php:481
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/admin-config.php:506
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/admin-config.php:556
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/admin-config.php:566
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/admin-config.php:616
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/admin-config.php:626
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/admin-config.php:676
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/admin-config.php:686
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/admin-config.php:725
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/admin-config.php:735
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/oldadmin-config.php:340
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/oldadmin-config.php:355
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/oldadmin-config.php:566
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/oldadmin-config.php:606
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/oldadmin-config.php:628
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/oldadmin-config.php:643
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/oldadmin-config.php:658
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/oldadmin-config.php:673
+msgid "Upload any media using the WordPress native uploader"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/admin-config.php:334
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/oldadmin-config.php:351
+msgid "Fav Icon"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/admin-config.php:374
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/admin-config.php:519
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/admin-config.php:579
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/admin-config.php:639
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/oldadmin-config.php:399
+msgid "Slides Options"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/admin-config.php:375
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/admin-config.php:520
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/admin-config.php:580
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/admin-config.php:640
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/oldadmin-config.php:400
+msgid "Unlimited slides with drag and drop sortings."
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/admin-config.php:378
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/admin-config.php:523
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/admin-config.php:583
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/admin-config.php:643
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/oldadmin-config.php:403
+msgid "This is a title"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/admin-config.php:379
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/admin-config.php:524
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/admin-config.php:584
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/admin-config.php:644
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/oldadmin-config.php:404
+msgid "Description Here"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/admin-config.php:380
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/admin-config.php:525
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/admin-config.php:585
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/admin-config.php:645
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/oldadmin-config.php:405
+msgid "This is button title"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/admin-config.php:381
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/admin-config.php:526
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/admin-config.php:586
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/admin-config.php:646
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/oldadmin-config.php:406
+msgid "Give us a link!"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/admin-config.php:396
+msgid "Overview Title"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/admin-config.php:397
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/admin-config.php:412
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/admin-config.php:437
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/admin-config.php:462
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/admin-config.php:487
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/admin-config.php:537
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/admin-config.php:597
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/admin-config.php:657
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/admin-config.php:706
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/admin-config.php:771
+msgid "HTML can be used"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/admin-config.php:411
+msgid "Overview Content 1"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/admin-config.php:427
+msgid "Overview Image 1"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/admin-config.php:436
+msgid "Overview Content 2"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/admin-config.php:452
+msgid "Overview Image 2"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/admin-config.php:461
+msgid "Overview Content 3"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/admin-config.php:477
+msgid "Overview Image 3"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/admin-config.php:486
+msgid "Overview Content 4"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/admin-config.php:502
+msgid "Overview Image 4"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/admin-config.php:536
+msgid "Ingredient description"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/admin-config.php:552
+msgid "Ingredient Image"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/admin-config.php:562
+msgid "Ingredient Background"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/admin-config.php:596
+msgid "Food description"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/admin-config.php:612
+msgid "Food Image"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/admin-config.php:622
+msgid "Food Background"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/admin-config.php:656
+msgid "Retailers Supply description"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/admin-config.php:672
+msgid "Retailers Supply Image"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/admin-config.php:682
+msgid "Retailers Supply Background"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/admin-config.php:705
+msgid "Shop Online description"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/admin-config.php:721
+msgid "Shop Online Image"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/admin-config.php:731
+msgid "Shop Online Background"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/admin-config.php:742
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/oldadmin-config.php:683
+msgid "Contact"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/admin-config.php:762
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/oldadmin-config.php:703
+msgid "Footer"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/admin-config.php:770
+msgid "Footer Copyright Title"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/admin-config.php:785
+msgid "Footer background"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/admin-config.php:875
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/oldadmin-config.php:845
+msgid "Section via hook"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/admin-config.php:876
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/oldadmin-config.php:846
+msgid ""
+"<p class=\"description\">This is a section created by adding a filter to the "
+"sections array. Can be used by child themes to add/remove sections from the "
+"options.</p>"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/framework.php:224
+#, php-format
+msgid "Options panel created using %1$s"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/framework.php:224
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/welcome/welcome.php:194
+msgid "Redux Framework"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/framework.php:228
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/framework.php:232
+msgid "Options"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/framework.php:1730
+msgid "Enable"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/framework.php:1735
+msgid "Disable"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/framework.php:1741
+msgid "moving the mouse over"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/framework.php:1743
+msgid "clicking"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/framework.php:1747
+#, php-format
+msgid ""
+"Hints are tooltips that popup when %d the hint icon, offering addition "
+"information about the field in which they appear.  They can be %d d by using "
+"the link below."
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/framework.php:1752
+msgid "Hints"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/framework.php:1879
+msgid "Default"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/framework.php:2752
+msgid "Invalid security credential, please reload the page and try again."
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/framework.php:2838
+msgid "Your panel has no fields. Nothing to save."
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/oldadmin-config.php:98
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/oldadmin-config.php:99
+msgid "Hercules Options"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/oldadmin-config.php:307
+msgid "Color Scheme"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/oldadmin-config.php:308
+msgid "Pick a color scheme for the site."
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/oldadmin-config.php:316
+msgid "Theme Stylesheet"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/oldadmin-config.php:317
+msgid "Select your themes layout boxed or wide."
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/oldadmin-config.php:365
+msgid "One page or multipage menu"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/oldadmin-config.php:366
+msgid ""
+"Change menu for multipage or singel page On is for multiplage and off is for "
+"one page"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/oldadmin-config.php:435
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/oldadmin-config.php:460
+msgid "Desc Section 1"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/oldadmin-config.php:436
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/oldadmin-config.php:461
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/oldadmin-config.php:486
+msgid "All HTML will be stripped"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/oldadmin-config.php:485
+msgid "Desc Section 3"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/oldadmin-config.php:510
+msgid "Desc Section 4"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/oldadmin-config.php:511
+msgid "Some Html tags are allowed"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/oldadmin-config.php:528
+msgid "What' New Section"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/oldadmin-config.php:562
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/oldadmin-config.php:602
+msgid "Media w/ URL"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/oldadmin-config.php:576
+msgid "Application Section"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/oldadmin-config.php:624
+msgid "Tweets section"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/oldadmin-config.php:627
+msgid "Tweets section parallex background image"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/oldadmin-config.php:639
+msgid "App section"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/oldadmin-config.php:642
+msgid "App section parallex background image"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/oldadmin-config.php:654
+msgid "Parallexblock"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/oldadmin-config.php:657
+msgid "Parallexblock with one or two button parallex bakground image."
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/oldadmin-config.php:669
+msgid "Testimonial"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/oldadmin-config.php:672
+msgid "Testimonial parallex bakground image"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/oldadmin-config.php:731
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/extensions/import_export/extension_import_export.php:120
+msgid "Import / Export"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/oldadmin-config.php:732
+msgid "Import and Export your Redux Framework settings from file, text or URL."
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/oldadmin-config.php:749
+msgid "Theme Information"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/oldadmin-config.php:750
+msgid ""
+"<p class=\"description\">This is the Description. Again HTML is allowed</p>"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/class.redux_functions.php:258
+msgid "Dismiss"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/class.redux_helpers.php:593
+#, php-format
+msgid ""
+"<code>%s</code> version <strong style=\"color:red\">%s</strong> is out of "
+"date. The core version is %s"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/tracking.php:129
+msgid "Help improve Our Panel"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/tracking.php:130
+msgid ""
+"Please helps us improve our panel by allowing us to gather anonymous usage "
+"stats so we know which configurations, plugins and themes to test to ensure "
+"compatibility."
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/tracking.php:135
+msgid "Allow tracking"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/tracking.php:140
+msgid "Do not allow tracking"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/tracking.php:151
+msgid "Welcome to the Redux Demo Panel"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/tracking.php:152
+msgid "Getting Started"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/tracking.php:152
+#, php-format
+msgid ""
+"This panel demonstrates the many features of Redux.  Before digging in, we "
+"suggest you get up to speed by reviewing %1$s."
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/tracking.php:152
+msgid "our documentation"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/tracking.php:153
+msgid "Redux Generator"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/tracking.php:153
+#, php-format
+msgid ""
+"Want to get a head start? Use the %1$s. It will create a customized "
+"boilerplate theme or a standalone admin folder complete with all things "
+"Redux (with the help of Underscores and TGM). Save yourself a headache and "
+"try it today."
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/tracking.php:154
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/welcome/welcome.php:218
+msgid "Redux Extensions"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/tracking.php:154
+#, php-format
+msgid ""
+"Did you know we have extensions, which greatly enhance the features of "
+"Redux?  Visit our %1$s to learn more!"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/tracking.php:154
+msgid "extensions directory"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/tracking.php:155
+msgid "Like Redux?"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/tracking.php:155
+#, php-format
+msgid ""
+"If so, please %1$s and consider making a %2$s to keep development of Redux "
+"moving forward."
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/tracking.php:155
+msgid "leave us a favorable review on WordPress.org"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/tracking.php:155
+msgid "donation"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/tracking.php:156
+msgid "Newsletter"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/tracking.php:156
+msgid ""
+"If you'd like to keep up to with all things Redux, please subscribe to our "
+"newsletter"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/tracking.php:157
+msgid "Email address"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/tracking.php:157
+msgid "Subscribe"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/tracking.php:166
+msgid "Close"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/class.redux_themecheck.php:61
+#, php-format
+msgid ""
+"The theme you are testing has %s embedded. We invite you to read the %sTheme-"
+"Check Documentation%s to understand some warnings you will see because of "
+"Redux."
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/class.redux_filesystem.php:23
+msgid "Unable to modify required files. Please ensure that"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/class.redux_filesystem.php:25
+msgid ""
+"has the proper read/write permissions or enter your FTP information below."
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/welcome/welcome.php:174
+msgid "Support hash could not be generated. Please try again later."
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/welcome/welcome.php:194
+msgid "Welcome to Redux Framework"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/welcome/welcome.php:202
+msgid "Redux Framework Changelog"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/welcome/welcome.php:210
+msgid "Get Support"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/welcome/welcome.php:227
+msgid "The people that develop Redux Framework"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/welcome/welcome.php:235
+msgid "Redux Framework Status"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/welcome/welcome.php:512
+#, php-format
+msgid "View %s"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/welcome/views/about.php:2
+#, php-format
+msgid "Welcome to Redux Framework %s"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/welcome/views/about.php:5
+#, php-format
+msgid ""
+"Thank you for updating to the latest version! Redux Framework %s is a huge "
+"step forward in Redux Development. Look at all that's new."
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/welcome/views/about.php:8
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/welcome/views/support.php:8
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/welcome/views/extensions.php:82
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/welcome/views/credits.php:8
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/welcome/views/status_report.php:31
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/welcome/views/changelog.php:8
+#, php-format
+msgid "Version %s"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/welcome/views/support.php:5
+msgid ""
+"We are an open source project used by developers to make powerful control "
+"panels."
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/welcome/views/support.php:33
+#, php-format
+msgid ""
+"This will provide to your developer all the information they may need to "
+"remedy your issue. This action WILL send information securely to a remote "
+"server. To see the type of information sent, please look at the  <a href=\"%s"
+"\">Status tab</a>."
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/welcome/views/support.php:215
+#, php-format
+msgid ""
+"Should the developer not be responsive, read the <a href=\"%s\" target="
+"\"_blank\">following article</a> before asking for support from us directly."
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/welcome/views/extensions.php:79
+msgid ""
+"Supercharge your Redux experience. Our extensions provide you with features "
+"that will take your products to the next level."
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/welcome/views/status_report.php:88
+#, php-format
+msgid "To allow data saving, make <code>%s</code> writable."
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/welcome/views/status_report.php:150
+#, php-format
+msgid ""
+"%s - We recommend setting memory to at least 40MB. See: <a href=\"%s\" "
+"target=\"_blank\">Increasing memory allocated to PHP</a>"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/welcome/views/status_report.php:293
+#, php-format
+msgid "Default timezone is %s - it should be UTC"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/welcome/views/status_report.php:310
+msgid ""
+"Your server does not have fsockopen or cURL enabled - cURL is used to "
+"communicate with other servers. Please contact your hosting provider."
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/welcome/views/status_report.php:349
+msgid "Remote Post"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/welcome/views/status_report.php:355
+msgid ""
+"wp_remote_post() failed. Many advanced features may not function. Contact "
+"your hosting provider."
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/welcome/views/status_report.php:358
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/welcome/views/status_report.php:373
+#, php-format
+msgid "Error: %s"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/welcome/views/status_report.php:365
+msgid "Remote Get"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/welcome/views/status_report.php:371
+msgid ""
+"wp_remote_get() failed. This is needed to get information from remote "
+"servers. Contact your hosting provider."
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/welcome/views/status_report.php:421
+msgid "Visit plugin homepage"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/welcome/views/status_report.php:593
+msgid "is available"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/welcome/views/status_report.php:606
+#, php-format
+msgid ""
+"If you're modifying Redux Framework or a parent theme you didn't build "
+"personally, we recommend using a child theme. See: <a href=\"%s\" target="
+"\"_blank\">How to create a child theme</a>"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/validation/url/validation_url.php:16
+msgid "You must provide a valid URL for this option."
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/validation/css/validation_css.php:38
+msgid "Unsafe strings were found in your CSS and have been filtered out."
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/validation/colorrgba/validation_colorrgba.php:16
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/validation/color/validation_color.php:15
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/validation/color_rgba/validation_color_rgba.php:14
+msgid "This field must be a valid color value."
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/validation/email_not_empty/validation_email_not_empty.php:16
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/validation/email/validation_email.php:16
+msgid "You must provide a valid email for this option."
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/validation/comma_numeric/validation_comma_numeric.php:16
+msgid ""
+"You must provide a comma separated list of numerical values for this option."
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/validation/numeric_not_empty/validation_numeric_not_empty.php:16
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/validation/numeric/validation_numeric.php:16
+msgid "You must provide a numerical value for this option."
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/validation/date/validation_date.php:16
+msgid "This field must be a valid date."
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/validation/no_html/validation_no_html.php:15
+msgid ""
+"You must not enter any HTML in this field, all HTML tags have been removed."
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/validation/no_special_chars/validation_no_special_chars.php:16
+msgid ""
+"You must not enter any special characters in this field, all special "
+"characters have been removed."
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/validation/unique_slug/validation_unique_slug.php:16
+#, php-format
+msgid ""
+"That URL slug is in use, please choose another. <code>%s</code> is open for "
+"use."
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/validation/not_empty/validation_not_empty.php:16
+msgid "This field cannot be empty. Please provide a value."
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/extensions/wbc_importer/extension_wbc_importer.php:274
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/extensions/wbc_importer/extension_wbc_importer.php:276
+msgid "Demo Importer"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/extensions/wbc_importer/inc/importer/radium-importer.php:256
+msgid "Theme options Import file could not be found. Please try again."
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/extensions/wbc_importer/inc/importer/radium-importer.php:331
+msgid "Widget Import file could not be found. Please try again."
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/extensions/wbc_importer/inc/importer/radium-importer.php:405
+msgid "Sidebar does not exist in theme (using Inactive)"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/extensions/wbc_importer/inc/importer/radium-importer.php:427
+msgid "Site does not support widget"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/extensions/wbc_importer/inc/importer/radium-importer.php:450
+msgid "Widget already exists"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/extensions/wbc_importer/inc/importer/radium-importer.php:499
+msgid "Imported"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/extensions/wbc_importer/inc/importer/radium-importer.php:502
+msgid "Imported to Inactive"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/extensions/wbc_importer/inc/importer/radium-importer.php:509
+msgid "No Title"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/extensions/wbc_importer/inc/importer/parsers.php:42
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/extensions/wbc_importer/inc/importer/parsers.php:72
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/extensions/wbc_importer/inc/importer/parsers.php:80
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/extensions/wbc_importer/inc/importer/parsers.php:43
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/extensions/wbc_importer/inc/importer/parsers.php:84
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/extensions/wbc_importer/inc/importer/parsers.php:89
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/extensions/wbc_importer/inc/importer/parsers.php:279
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/extensions/wbc_importer/inc/importer/parsers.php:468
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:134
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:143
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:194
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:198
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:207
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:135
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:178
+msgid "All done."
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:178
+msgid "Have fun!"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:179
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:199
+#, php-format
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:215
+#, php-format
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:240
+#, php-format
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:269
+#, php-format
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually changing "
+"the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:324
+msgid "- Select -"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:374
+#, php-format
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:425
+#, php-format
+msgid "Failed to import category %s"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:465
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:511
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:652
+#, php-format
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:537
+#, php-format
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:559
+#, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:618
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:790
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:853
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:866
+msgid "Invalid file type"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:910
+msgid "Remote server did not respond"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:916
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:923
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:928
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:934
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:1032
+msgid "Import WordPress"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:1039
+#, php-format
+msgid ""
+"A new version of this importer is available. Please update to version %s to "
+"ensure compatibility with newer export files."
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:1054
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
+"the posts, pages, comments, custom fields, categories, and tags into this "
+"site."
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:1055
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:114
+msgid "Import Demo"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/extensions/options_object/extension_options_object.php:82
+msgid "Options Object"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/extensions/import_export/import_export/field_import_export.php:107
+msgid ""
+"Input your backup file below and hit Import to restore your sites options "
+"from a backup."
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/extensions/import_export/import_export/field_import_export.php:112
+msgid ""
+"Input the URL to another sites options set and hit Import to load the "
+"options from that site."
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/extensions/import_export/import_export/field_import_export.php:116
+msgid ""
+"WARNING! This will overwrite all existing option values, please proceed with "
+"caution!"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/extensions/import_export/import_export/field_import_export.php:121
+msgid ""
+"Here you can copy/download your current option settings. Keep this safe as "
+"you can use it as a backup should anything go wrong, or you can use it to "
+"restore your settings on this site (or any other site)."
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/extensions/customizer/extension_customizer.php:566
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/core/enqueue.php:448
+msgid "You have changes that are not saved. Would you like to save them now?"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/extensions/customizer/extension_customizer.php:567
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/core/enqueue.php:456
+msgid "Are you sure? Resetting will lose all custom values."
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/extensions/customizer/extension_customizer.php:568
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/core/enqueue.php:472
+msgid ""
+"Your current options will be replaced with the values of this preset. Would "
+"you like to proceed?"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/extensions/customizer/extension_customizer.php:601
+msgid "You have changes that are not saved.  Would you like to save them now?"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/extensions/customizer/extension_customizer.php:602
+msgid "Are you sure?  Resetting will lose all custom values."
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/extensions/customizer/extension_customizer.php:603
+msgid ""
+"Your current options will be replaced with the values of this preset.  Would "
+"you like to proceed?"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/fields/select_image/field_select_image.php:63
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/fields/select/field_select.php:83
+msgid "Select an item"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/fields/select_image/field_select_image.php:144
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/fields/select/field_select.php:134
+msgid "No items of this type were found."
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/fields/color_gradient/field_color_gradient.php:68
+msgid "From "
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/fields/color_gradient/field_color_gradient.php:79
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/fields/color_gradient/field_color_gradient.php:91
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/fields/color/field_color.php:73
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/fields/background/field_background.php:124
+msgid "Transparent"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/fields/color_gradient/field_color_gradient.php:82
+msgid "To "
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/fields/gallery/field_gallery.php:73
+msgid "Add/Edit Gallery"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/fields/gallery/field_gallery.php:74
+msgid "Clear Gallery"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/fields/multi_text/field_multi_text.php:61
+msgid "Add More"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/fields/multi_text/field_multi_text.php:69
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/fields/multi_text/field_multi_text.php:73
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/fields/multi_text/field_multi_text.php:76
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/fields/media/field_media.php:205
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/fields/slides/field_slides.php:134
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/fields/slides/field_slides.php:195
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/fields/background/field_background.php:321
+msgid "Remove"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/fields/spacing/field_spacing.php:191
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/fields/border/field_border.php:125
+msgid "All"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/fields/spacing/field_spacing.php:215
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/fields/border/field_border.php:138
+msgid "Top"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/fields/spacing/field_spacing.php:222
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/fields/border/field_border.php:145
+msgid "Right"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/fields/spacing/field_spacing.php:229
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/fields/border/field_border.php:152
+msgid "Bottom"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/fields/spacing/field_spacing.php:236
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/fields/border/field_border.php:159
+msgid "Left"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/fields/spacing/field_spacing.php:245
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/fields/spacing/field_spacing.php:246
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/fields/dimensions/field_dimensions.php:189
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/fields/dimensions/field_dimensions.php:190
+msgid "Units"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/fields/media/field_media.php:149
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/fields/background/field_background.php:277
+msgid "No media selected"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/fields/media/field_media.php:198
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/fields/slides/field_slides.php:127
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/fields/slides/field_slides.php:193
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/fields/background/field_background.php:314
+msgid "Upload"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/fields/link_color/field_link_color.php:87
+msgid "Regular"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/fields/link_color/field_link_color.php:91
+msgid "Hover"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/fields/link_color/field_link_color.php:95
+msgid "Visited"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/fields/link_color/field_link_color.php:99
+msgid "Active"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/fields/switch/field_switch.php:41
+msgid "On"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/fields/switch/field_switch.php:44
+msgid "Off"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/fields/dimensions/field_dimensions.php:162
+msgid "Width"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/fields/dimensions/field_dimensions.php:178
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/fields/typography/field_typography.php:442
+msgid "Height"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/fields/border/field_border.php:173
+msgid "Border style"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/fields/slides/field_slides.php:68
+msgid "Slide"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/fields/slides/field_slides.php:73
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/fields/slides/field_slides.php:179
+#, php-format
+msgid "New %s"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/fields/slides/field_slides.php:146
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/fields/slides/field_slides.php:205
+msgid "Title"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/fields/slides/field_slides.php:150
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/fields/slides/field_slides.php:209
+msgid "Description"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/fields/slides/field_slides.php:154
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/fields/slides/field_slides.php:213
+msgid "Button Title"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/fields/slides/field_slides.php:158
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/fields/slides/field_slides.php:218
+msgid "URL"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/fields/slides/field_slides.php:172
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/fields/slides/field_slides.php:231
+msgid "Delete"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/fields/slides/field_slides.php:234
+#, php-format
+msgid "Add %s"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/fields/background/field_background.php:141
+msgid "Background Repeat"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/fields/background/field_background.php:157
+msgid "Background Clip"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/fields/background/field_background.php:173
+msgid "Background Origin"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/fields/background/field_background.php:188
+msgid "Background Size"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/fields/background/field_background.php:203
+msgid "Background Attachment"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/fields/background/field_background.php:223
+msgid "Background Position"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/fields/typography/field_typography.php:231
+msgid "Font Family"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/fields/typography/field_typography.php:232
+msgid "Font family"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/fields/typography/field_typography.php:258
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/fields/typography/field_typography.php:259
+msgid "Backup Font Family"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/fields/typography/field_typography.php:273
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/fields/typography/field_typography.php:281
+msgid "Font style"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/fields/typography/field_typography.php:274
+msgid "Font Weight &amp; Style"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/fields/typography/field_typography.php:281
+msgid "Style"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/fields/typography/field_typography.php:321
+msgid "Font subsets"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/fields/typography/field_typography.php:323
+msgid "Font Subsets"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/fields/typography/field_typography.php:325
+msgid "Subsets"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/fields/typography/field_typography.php:325
+msgid "Font script"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/fields/typography/field_typography.php:342
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/fields/typography/field_typography.php:343
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/fields/typography/field_typography.php:344
+msgid "Text Align"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/fields/typography/field_typography.php:365
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/fields/typography/field_typography.php:366
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/fields/typography/field_typography.php:367
+msgid "Text Transform"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/fields/typography/field_typography.php:388
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/fields/typography/field_typography.php:389
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/fields/typography/field_typography.php:390
+msgid "Font Variant"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/fields/typography/field_typography.php:408
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/fields/typography/field_typography.php:409
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/fields/typography/field_typography.php:410
+msgid "Text Decoration"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/fields/typography/field_typography.php:432
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/fields/typography/field_typography.php:433
+msgid "Font Size"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/fields/typography/field_typography.php:433
+msgid "Size"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/fields/typography/field_typography.php:441
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/fields/typography/field_typography.php:442
+msgid "Line Height"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/fields/typography/field_typography.php:450
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/fields/typography/field_typography.php:451
+msgid "Word Spacing"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/fields/typography/field_typography.php:459
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/fields/typography/field_typography.php:460
+msgid "Letter Spacing"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/fields/typography/field_typography.php:478
+msgid "Font Color"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/fields/typography/field_typography.php:480
+msgid "Font color"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/fields/typography/field_typography.php:890
+msgid "Standard Fonts"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/inc/fields/typography/field_typography.php:991
+msgid "Google Webfonts"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/core/panel.php:65
+msgid "Warning- This options panel will not work properly without javascript!"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/core/panel.php:141
+msgid "Settings Imported!"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/core/panel.php:156
+msgid "All Defaults Restored!"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/core/panel.php:170
+msgid "Section Defaults Restored!"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/core/panel.php:184
+msgid "Settings Saved!"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/core/panel.php:204
+msgid "Settings have changed, you should save them!"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/core/panel.php:212
+msgid "error(s) were found!"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/core/panel.php:220
+msgid "warning(s) were found!"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/core/enqueue.php:464
+msgid "Are you sure? Resetting will lose all custom values in this section."
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/core/enqueue.php:479
+msgid "Please Wait"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/core/enqueue.php:490
+msgid "There was an error saving. Here is the result of your action:"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/core/enqueue.php:491
+msgid ""
+"There was a problem with your action. Please try again or reload the page."
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/templates/panel/header_stickybar.tpl.php:20
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/templates/panel/footer.tpl.php:47
+msgid "Save Changes"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/templates/panel/header_stickybar.tpl.php:22
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/templates/panel/footer.tpl.php:50
+msgid "Reset Section"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/templates/panel/header_stickybar.tpl.php:23
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/templates/panel/footer.tpl.php:51
+msgid "Reset All"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/templates/panel/header.tpl.php:12
+msgid "Developer Mode Enabled"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/templates/panel/header.tpl.php:21
+msgid "WP_DEBUG is enabled"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/templates/panel/header.tpl.php:27
+msgid "you are working in a localhost environment"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/templates/panel/header.tpl.php:32
+msgid "and"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/templates/panel/header.tpl.php:35
+msgid "Redux has enabled developer mode because"
+msgstr ""
+
+#: /media/datas/websites/dev.sutunam.com/newviet/new-viet/wp-content/themes/sutunam/lib/admin_core/templates/panel/header.tpl.php:37
+msgid ""
+"If you are not a developer, your theme/plugin author shipped with developer "
+"mode enabled. Contact them directly to fix it."
+msgstr ""

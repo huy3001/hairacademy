@@ -1,0 +1,42 @@
+/* Sutunam theme style */
+
+/* Font */
+@import "font";
+
+/* Mixin */
+@import "mixin";
+
+/* Variable */
+@import "variable";
+
+/* Keyframes */
+@import "keyframes";
+
+/* Slick */
+@import "../js/slick/slick";
+@import "../js/slick/slick-theme";
+
+/* Global */
+@import "global/general";
+@import "global/header";
+@import "global/footer";
+
+/* Component */
+@import "component/left-content";
+@import "component/right-content";
+@import "component/upsbar";
+@import "component/newsletter-footer";
+@import "component/snow";
+@import "component/woocomerce";
+
+/* Pages */
+@import "page/home";
+@import "page/men-page";
+@import "page/women-page";
+@import "page/shoes-page";
+@import "page/product-category";
+@import "page/product-detail";
+@import "page/search-result";
+@import "page/blog-page";
+@import "page/cart-page";
+@import "page/checkout-page";

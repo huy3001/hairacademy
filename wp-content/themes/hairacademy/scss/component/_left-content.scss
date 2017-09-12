@@ -1,0 +1,180 @@
+/* Left content style */
+
+.left-content {
+    background: $white;
+    width: $left-content-width;
+    overflow: hidden;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    top: $header-height;
+    z-index: 111;
+    @include transition();
+    .no-sidebar & {
+        left: -$left-content-width;
+    }
+    .left-menu {
+        ul {
+            margin: 0;
+            padding: 0;
+            list-style: none;
+            li {
+                &.menu-item-has-children {
+                    > a {
+                        position: relative;
+                        &:before, &:after {
+                            content: "";
+                            display: block;
+                            background: $left-menu-bg;
+                            position: absolute;
+                            top: 50%;
+                            @include transition();
+                        }
+                        &:before {
+                            right: 15px;
+                            width: 10px;
+                            height: 2px;
+                            margin-top: -1px;
+                        }
+                        &:after {
+                            right: 19px;
+                            width: 2px;
+                            height: 10px;
+                            margin-top: -5px;
+                        }
+                        &.open-sub {
+                            &:after {
+                                @include transform(rotate(90deg));
+                            }
+                        }
+                    }
+                }
+            }
+            &.menu {
+                > li {
+                    border-bottom: 1px solid $left-menu-bd;
+                    &:last-child {
+                        border-bottom: none;
+                    }
+                    > a {
+                        color: $header-bg;
+                        display: block;
+                        line-height: 20px;
+                        padding: 20px 15px;
+                        text-transform: uppercase;
+                    }
+                }
+            }
+            &.sub-menu {
+                display: none;
+                padding-bottom: 20px;
+                > li {
+                    > a {
+                        color: $submenu-item-color;
+                        display: block;
+                        @include font('font-roboto-medium');
+                        line-height: 1;
+                        padding: 8px 15px;
+                        &:hover {
+                            color: $header-bg;
+                        }
+                    }
+                    .sub-menu {
+                        padding-top: 20px;
+                        padding-left: 15px;
+                    }
+                }
+            }
+        }
+    }
+    .left-logo,
+    .left-search,
+    .left-login {
+        display: none;
+    }
+
+    @include bp(max-width, $huge-desktop) {
+        left: 0;
+    }
+
+    @include bp(max-width, $desktop) {
+        .left-menu {
+            max-height: 100%;
+            overflow-x: hidden;
+            overflow-y: auto;
+        }
+        .left-login {
+            background: $header-bg;
+            height: $header-height;
+            width: 100%;
+            position: absolute;
+            left: 0;
+            bottom: 0;
+            .login-button {
+                color: $white;
+                display: block;
+                text-align: center;
+                padding: 17px;
+                .fa {
+                    font-size: 18px;
+                    margin-right: 5px;
+                }
+            }
+        }
+    }
+
+    @include bp(max-width, $tablet - 1) {
+        top: 0;
+        .left-menu {
+            @include calc(max-height, '100% - 108px');
+        }
+        .left-logo,
+        .left-search {
+            display: block;
+        }
+        .left-logo {
+            background: $black;
+            border-right: 1px solid $search-input-bd;
+            height: $header-height;
+            width: 100%;
+            position: relative;
+            .logo {
+                max-width: 120px;
+                position: absolute;
+                top: 50%;
+                left: 15px;
+                @include transform(translateY(-50%));
+            }
+        }
+        .left-search {
+            .form-search {
+                border-bottom: 1px solid $left-menu-bd;
+                position: relative;
+                input {
+                    background: none;
+                    border: none;
+                    color: $header-bg;
+                    height: $header-height;
+                    width: 100%;
+                    padding: 10px 15px 10px 35px;
+                    outline: none;
+                    @include input-placeholder() {
+                        color: $header-bg;
+                    }
+                }
+                button {
+                    background: none;
+                    border: none;
+                    color: $header-bg;
+                    font-size: 18px;
+                    height: 100%;
+                    position: absolute;
+                    left: 0;
+                    top: 0;
+                    padding: 10px;
+                    outline: none;
+                }
+            }
+        }
+    }
+}

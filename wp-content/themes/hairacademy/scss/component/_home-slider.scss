@@ -1,0 +1,86 @@
+/* Home slider style */
+
+.slider-block {
+    margin-bottom: 0;
+    .slick-prev, .slick-next {
+        background: rgba(0,0,0,0.2);
+        @include border-radius(50%);
+        height: 80px;
+        width: 80px;
+        z-index: 1;
+        @include transition();
+        &:before {
+            font-size: 60px;
+            font-weight: 100;
+            @include font('font-awesome');
+            @include opacity(0.5);
+            @include transition();
+        }
+        &:hover {
+            background: rgba(0,0,0,0.5);
+            &:before {
+                @include opacity(1);
+            }
+        }
+    }
+    .slick-prev {
+        left: 35px;
+        text-indent: -5px;
+        &:before {
+            content: "\f104";
+        }
+    }
+    .slick-next {
+        right: 35px;
+        text-indent: 5px;
+        &:before {
+            content: "\f105";
+        }
+    }
+    .slick-dots {
+        bottom: 20px;
+        li {
+            background: $white;
+            height: 2px;
+            width: 50px;
+            margin: 0 3px;
+            button {
+                width: 100%;
+                height: 100%;
+                padding: 0;
+                &:before {
+                    display: none;
+                }
+            }
+            &.slick-active {
+                background: $black;
+            }
+        }
+    }
+
+    @include bp(max-width, $desktop - 1) {
+        .slick-prev {
+            left: 20px;
+        }
+        .slick-next {
+            right: 20px;
+        }
+        .slick-dots {
+            bottom: 0;
+        }
+    }
+
+    @include bp(max-width, $laptop - 1) {
+        .slick-prev, .slick-next {
+            height: 60px;
+            width: 60px;
+            &:before {
+                font-size: 50px;
+            }
+        }
+    }
+
+    @include bp(max-width, $tablet - 1) {
+
+    }
+}

@@ -1,0 +1,76 @@
+/* Newsletter footer style */
+
+.newsletter-footer {
+    display: none;
+    .newsletter {
+        padding: 45px 50px;
+        text-align: center;
+        .newsletter-title {
+            color: $header-bg;
+            display: inline-block;
+            vertical-align: top;
+            font-size: 14px;
+            text-transform: uppercase;
+            margin-top: 13px;
+            margin-right: 10px;
+        }
+        .wpcf7 {
+            display: inline-block;
+            vertical-align: top;
+        }
+        .wpcf7-form {
+            .wpcf7-email {
+                border: 2px solid $header-bg;
+                color: $header-bg;
+                font-size: 13px;
+                padding: 9px 10px;
+                outline: none;
+            }
+            .wpcf7-submit {
+                background: $header-bg;
+                border: 2px solid $header-bg;
+                color: $white;
+                font-size: 13px;
+                margin-left: 10px;
+                padding: 9px 10px;
+                outline: none;
+                @include transition();
+                &:hover {
+                    background: $white;
+                    color: $header-bg;
+                }
+            }
+            .ajax-loader {
+                display: none;
+            }
+        }
+    }
+
+    @include bp(max-width, $laptop - 1) {
+        .newsletter {
+            padding: 45px 0;
+        }
+    }
+
+    @include bp(max-width, $tablet - 1) {
+        .newsletter {
+            padding: 30px 0;
+            .newsletter-title {
+                display: block;
+                margin: 0 auto 15px;
+            }
+            .wpcf7 {
+                max-width: 100%;
+            }
+            .wpcf7-form {
+                .wpcf7-email {
+                    max-width: 100%;
+                }
+                .wpcf7-submit {
+                    width: 100%;
+                    margin: 10px 0 0;
+                }
+            }
+        }
+    }
+}

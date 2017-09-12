@@ -1,0 +1,57 @@
+/* Women page style */
+
+.page-template-women {
+    @extend .home;
+    @import "../component/sub-category";
+    @import "../component/featured-product";
+    @import "../component/content-desc";
+    @import "../component/content-image";
+    .content-block {
+        margin: 1px 0;
+        .content-block-body {
+            a {
+                border-color: $white;
+                &:hover {
+                    background: none;
+                }
+            }
+        }
+    }
+    .row {
+        &:first-child {
+            .content-block {
+                margin-top: 0;
+            }
+        }
+        &:last-child {
+            .content-block {
+                margin-bottom: 0;
+            }
+        }
+    }
+    .women-option-1,
+    .women-option-3,
+    .women-option-5 {
+        .feature-product,
+        .content-block-desc {
+            float: right;
+        }
+        .content-block-img {
+            right: auto;
+            left: 0;
+        }
+    }
+    .women-option-2,
+    .women-option-4 {
+        .content-block-img {
+            right: 0;
+        }
+    }
+
+    @include bp(max-width, $laptop - 1) {
+        .feature-product,
+        .content-block-desc {
+            display: none;
+        }
+    }
+}

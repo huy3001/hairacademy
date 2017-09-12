@@ -1,0 +1,116 @@
+/* Woocomerce reset styles */
+
+.woocommerce {
+    .woocommerce-error,
+    .woocommerce-info,
+    .woocommerce-message {
+        border: none;
+        clear: both;
+        color: $white;
+        font-weight: normal;
+        line-height: 34px;
+        margin: 0 !important;
+        padding: 10px 15px !important;
+        &:before {
+            display: none;
+        }
+        .button {
+            @include border-radius(0);
+            background: $white;
+            padding: 10px 15px;
+        }
+    }
+
+    .woocommerce-error {
+        background: $red;
+        .button {
+            color: $red;
+        }
+    }
+
+    .woocommerce-info {
+        background: $green;
+        .button {
+            color: $green;
+        }
+    }
+
+    .woocommerce-message {
+        background: $blue;
+        .button {
+            color: $blue;
+        }
+    }
+
+    form {
+        .form-row {
+            label,
+            .select2-container {
+                line-height: normal;
+            }
+            .select2-container {
+                .select2-choice {
+                    @include border-radius(0);
+                    border-color: $search-input-bd;
+                    color: $main-color;
+                    padding: 10px 15px;
+                    &:focus {
+                        border-color: $main-color;
+                    }
+                }
+            }
+            input.input-text,
+            textarea {
+                border: 1px solid $search-input-bd;
+                color: $main-color;
+                font-weight: normal;
+                padding: 10px 15px;
+                &:focus {
+                    border-color: $main-color;
+                }
+            }
+            textarea {
+                height: 80px;
+            }
+            &.woocommerce-invalid {
+                label {
+                    color: $red;
+                }
+                input.input-text,
+                select,
+                textarea {
+                    border-color: $red;
+                }
+            }
+            &.woocommerce-validated {
+                input.input-text,
+                select,
+                textarea {
+                    border-color: $green;
+                }
+            }
+        }
+    }
+
+    a, button, input {
+        &.button {
+            @include border-radius(0);
+            color: $main-color;
+            line-height: normal;
+            padding: 11px 15px;
+            outline: none;
+        }
+    }
+
+    .select2-drop {
+        @include border-radius(0);
+    }
+
+    @include bp(max-width, $tablet - 1) {
+        .woocommerce-error,
+        .woocommerce-info,
+        .woocommerce-message {
+            line-height: normal;
+        }
+    }
+}

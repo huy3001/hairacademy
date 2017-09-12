@@ -1,0 +1,11 @@
+/* Font style */
+
+@font-face {
+    font-family: 'VNFGothamBook';
+    src: url('../fonts/VNFGothamBook.eot');
+    src: url('../fonts/VNFGothamBook.eot') format('embedded-opentype'),
+    url('../fonts/VNFGothamBook.woff2') format('woff2'),
+    url('../fonts/VNFGothamBook.woff') format('woff'),
+    url('../fonts/VNFGothamBook.ttf') format('truetype'),
+    url('../fonts/VNFGothamBook.svg#VNFGothamBook') format('svg');
+}
